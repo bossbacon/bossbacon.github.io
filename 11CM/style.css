@@ -1,0 +1,90 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.name {
+    line-height: 1.5;
+}
+
+#para {
+    margin: 10;
+    }
+
+          
+             h1 {
+                font-family: 'Gloria Hallelujah', cursive;;
+                font-size: 75px;
+                color: #AEC4D5;
+                }   
+              h2{
+                font-family: 'Lobster', cursive;
+                font-size: 45px;
+                color: #6D9DC5;
+                }
+              h3{
+                font-family: 'Baloo Bhaina', cursive;
+                font-size: 40px;
+                color: #69D1C5;
+                }
+               p{
+                font-family: 'Indie Flower', cursive;
+                font-size: 35px;
+                color: #FFFAFF;
+                }
+           body {
+                 background: url("igor-ovsyannykov-225499.jpg") no-repeat center center fixed;
+                 background-size: cover;
+                }
+     .rightSide {
+                 width: 500px;
+                 height: 500px;
+                 float: right;
+                } 
+  
+      #leftSide {
+                 width: 550px;
+                 height: 500px;
+                 float: left;
+                }
+#profilePicture {
+                width: 200px;
+                }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+          
+li a {
+    display:"inline";
+    font-size: 70px;
+    font-family:"Caveat Brush";
+    color: lightcyan;
+    background-color:black;
+    float: left;
+    padding: 15px 40px;
+}
+
+li a {
+    color:lightgrey;
+    text-decoration:"none";
+}
+
+li a:hover {
+    background-color:lightslategrey;
+    color: black;
+}
+
+.buttons {
+    width: 100%;
+}
+
+
+
+
+
+
+
